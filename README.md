@@ -1,6 +1,6 @@
 # WebCodecs Node.js $10k Challenge
 
-<img width="1012" height="473" alt="image" src="https://github.com/user-attachments/assets/1e92a3c0-94c0-4c9f-ad17-a83f1a3a73aa" />
+<img width="1025" height="472" alt="image" src="https://github.com/user-attachments/assets/3457c0a5-2ad2-4a28-a1fe-3f518ed5eb3e" />
 
 Video editing is exploding around the world and the potential for it enabled by AI and edge compute is unprecedented. There's finally a good underlying API in the browser for it with [WebCodecs](https://developer.mozilla.org/en-US/docs/Web/API/WebCodecs_API) and high level APIs like [Mediabunny](https://mediabunny.dev/) and [Remotion](https://www.remotion.dev/). But unfortunately you can't easily take the same code written against these and have it run on the server with [Node.js](https://nodejs.org/en).
 
